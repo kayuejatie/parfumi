@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://parfumi.vercel.app/sitemap.xml
